@@ -9,7 +9,6 @@
     "airtable-node": "^0.1.20",
     "axios": "^0.21.1",
     "dotenv": "^8.2.0",
-    "netlify": "^6.1.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
@@ -40,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "netlify-cli": "^3.4.5"
   }
 }
